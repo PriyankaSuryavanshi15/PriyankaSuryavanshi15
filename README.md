@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PriyankaSuryavanshi15
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on blockchain development
+- 👀 I’m interested in Data and AI
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Data Science 
 - 📫 How to reach me --- on Email--- pr8993895@gmail.com
 - 😄 Pronouns: ...Piku
 - ⚡ Fun fact: I love travel
